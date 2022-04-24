@@ -1,2 +1,3 @@
 # credit
-project of cs50 of a credit card 
+A validation of a credit card using a Checksum algorithm 
+
